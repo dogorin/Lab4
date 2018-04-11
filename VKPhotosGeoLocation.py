@@ -5,7 +5,7 @@ print('VKPhotosgeolocation')
 
 
 
-session = vk.Session('1f0f462cd33560c9d581edabc65104cf87b51ba6e5fe84392e666feca87156b188621f82394fbccb0b6d6')
+session = vk.Session('1f0f462cd33560c9d581edabc65104cf87b51ba6e5fe84392e666feca87156b188621f82394fbccb0b6d6',v=4.17)
 
 api = vk.API(session)
 
